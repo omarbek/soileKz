@@ -1,0 +1,55 @@
+#training {
+	height: 510px;
+}
+
+#uup{
+	/*background: #F0FCE8;*/
+	width:620px;
+	height:300px;
+}
+
+#uup table{
+	width:280px;
+	height: 280px;
+	/*border-radius: 10px;*/
+}
+
+#uup img{
+	width:130px;
+	height: 130px;
+	border: 2px solid #8e44ad;
+	/*border-radius: 10px;*/
+}
+
+#ddown{
+	/*background: #F0FCE8;*/
+	width:620px;
+	height:130px;
+}
+
+#slovo {
+	background:#ECF0F1;
+	border: 0px;
+	padding: 10px;
+	margin-left: 195px;
+	font-family: 'Arial', sans-serif;
+	font-size: 22pt;
+	color: #8e44ad;
+	width: 220px;
+	height: 40px;
+}
+
+#sub {
+	background: #DCDCDC;
+	border: 0px;
+	/*opacity: 0.8;*/
+	font-family: 'Arial', sans-serif;
+	font-size: 18pt;
+	padding: 5px;
+	margin-top: 20px;
+	margin-left: 210px;
+	color: #FF4500;
+	width:195px;
+	height:50px;
+	border-radius: 5px;
+}
