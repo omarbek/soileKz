@@ -20,7 +20,7 @@ import entities.Words;
  */
 @Stateless
 @LocalBean
-public class Bean implements BeanLocal {
+public class Bean implements BeanLocal {// comment
 
 	@PersistenceContext(unitName = "soileKzPU")
 	private EntityManager em;
